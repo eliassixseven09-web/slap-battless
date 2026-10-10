@@ -1,0 +1,2 @@
+# slap-battless
+trust
